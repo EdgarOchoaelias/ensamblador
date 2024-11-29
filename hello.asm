@@ -1,6 +1,6 @@
 section .data
     ; Sección de datos donde se definen las variables y cadenas
-    hello db 'Hello, World!', 0 ; La cadena a imprimir, terminada en NULL (0)
+    hello db 'Hello, Worldddd!', 0 ; La cadena a imprimir, terminada en NULL (0)
 
 section .text
     global _start                ; Declarar el punto de entrada (_start)
